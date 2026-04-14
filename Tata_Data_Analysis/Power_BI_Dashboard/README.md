@@ -39,4 +39,4 @@ Before generating insights, due diligence was performed to ensure 100% data accu
 ---
 
 ## 👨‍💻 Author
-**Uttam Tiwari** *Aspiring Data Analyst | BCA Undergrad* *Driven by a passion for transforming raw data into meaningful business strategies using Power BI, SQL, and Python.*
+**Uttam Tiwari** *Data Analyst | BCA Undergrad* *Driven by a passion for transforming raw data into meaningful business strategies using Power BI, SQL, and Python.*
